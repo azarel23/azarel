@@ -1,0 +1,2 @@
+# azarel
+testnet
